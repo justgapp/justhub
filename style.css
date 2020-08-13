@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(34, 34, 34);
+}
+
+.button {
+    width: 400px;
+    height: 100px;
+}
+.block1 {
+    float: left; /* Обтекание по правому краю */
+    width: 100px; /* Ширина слоя */
+}
+
+.block2 {
+    float: right; /* Обтекание по правому краю */
+    width: 200px; /* Ширина слоя */
+}
