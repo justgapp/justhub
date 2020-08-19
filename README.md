@@ -1,2 +1,2 @@
 # justhub
-Hub for all pages I use.
+Hub page for all websites I use.
